@@ -1,0 +1,52 @@
+{
+    "data": {
+      "products": [
+        {
+          "availableVariants": ["4GB", "8GB", "12GB"],
+          "currencyFormat": "$",
+          "currencyId": "USD",
+          "id": 0,
+          "price": 500.9,
+          "sku": 121,
+          "title": "Oneplus 9 Pro"
+        },
+        {
+          "availableVariants": ["6GB", "12GB"],
+          "currencyFormat": "$",
+          "currencyId": "USD",
+          "id": 11,
+          "price": 300.25,
+          "sku": 122,
+          "title": "Nothing Phone(1)"
+        },
+        {
+          "availableVariants": ["4GB", "8GB"],
+          "currencyFormat": "$",
+          "currencyId": "USD",
+          "id": 4,
+          "price": 700.9,
+          "sku": 123,
+          "title": "Apple iPhone 13"
+        },
+        {
+          "availableVariants": ["8GB"],
+          "currencyFormat": "$",
+          "currencyId": "USD",
+          "id": 4,
+          "price": 200.9,
+          "sku": 124,
+          "title": "Redmi Note 10"
+        },
+        {
+          "availableVariants": ["12GB"],
+          "currencyFormat": "$",
+          "currencyId": "USD",
+          "id": 4,
+          "price": 500.9,
+          "sku": 123,
+          "title": "Apple iPhone 11"
+        }
+      ]
+    }
+  }
+  
