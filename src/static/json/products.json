@@ -14,7 +14,7 @@
           "availableVariants": ["6GB", "12GB"],
           "currencyFormat": "$",
           "currencyId": "USD",
-          "id": 11,
+          "id": 1,
           "price": 300.25,
           "sku": 122,
           "title": "Nothing Phone(1)"
@@ -23,7 +23,7 @@
           "availableVariants": ["4GB", "8GB"],
           "currencyFormat": "$",
           "currencyId": "USD",
-          "id": 4,
+          "id": 2,
           "price": 700.9,
           "sku": 123,
           "title": "Apple iPhone 13"
@@ -32,7 +32,7 @@
           "availableVariants": ["8GB"],
           "currencyFormat": "$",
           "currencyId": "USD",
-          "id": 4,
+          "id": 3,
           "price": 200.9,
           "sku": 124,
           "title": "Redmi Note 10"
